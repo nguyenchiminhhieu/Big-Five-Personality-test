@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+wordcloud
+seaborn
+scikit-learn
+plotly
+colorlover
+flask
